@@ -1,0 +1,21 @@
+export const issuelist = [
+  "List issues assigned to the authenticated user",
+  "List organization issues assigned to the authenticated user",
+  "List repository issues",
+  "Create an issue",
+  "Get an issue",
+  "Update an issue",
+  "Lock an issue",
+  "Unlock an issue",
+  "List user account issues assigned to the authenticated user",
+  "List issues assigned to the authenticated user",
+  "List organization issues assigned to the authenticated user",
+  "List repository issues",
+  "Create an issue",
+  "Get an issue",
+  "Update an issue",
+  "Lock an issue",
+  "Unlock an issue",
+  "List user account issues assigned to the authenticated user",
+
+];
